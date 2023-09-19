@@ -36,6 +36,6 @@ To use the Database Initialization CLI, follow these steps:
 
 ## Example
 
-`dbinit mydb.db schema.sql`
+`dbinit mydb.db example/schema.sql`
 
 ---
